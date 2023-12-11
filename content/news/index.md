@@ -1,0 +1,1 @@
+my-new-news-item
